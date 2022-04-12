@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:- tvg-id="" tvg-name="EC/canela tv" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/cropped-LOGO_Mesa-de-trabajo-1-2-32x32.png" group-title="?ECUADOR?",EC/canela tv
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1971280720.m3u8
+
+#EXTINF:- tvg-id="" tvg-name="EC/tc mi canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="?ECUADOR?",EC/tc mi canal
+https://dai.ly/x7wijay
+
+#EXTINF:- tvg-id="" tvg-name="EC/zaracay tv" tvg-logo="http://zaracaytv.com/wp-content/uploads/2015/08/logo-h.png" group-title="?ECUADOR?",EC/zaracay tv
+https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
+
+#EXTINF:- tvg-id="" tvg-name="EC/telemazona" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" group-title="?ECUADOR?",EC/telemazona
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:- tvg-id="" tvg-name="EC/RTS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="?ECUADOR?",EC/RTS TV
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ5NjQyNjk3LCJzZXNzaW9uIjoiMjAwLjI0LjE1Mi4xNTAiLCJ3aGl0ZWxpc3QiOlsiMjAwLjI0LjE1Mi4xNTAiXX0sInNpZ25hdHVyZSI6IjZhNDcyMzNkYWQ1NjhjNGRlODBiY2Q5MmM3YTJhODAzYzQ5ZWZjZjcifQ%3D%3D
+
+#EXTINF:- tvg-id="" tvg-name="EC/ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="?ECUADOR?",EC/ECUADOR TV 
+https://playback2.akamaized.net/streams/27228685_9764041_lsiuydoio0n28lu5jyp_1/master.m3u8?dw=14400&hdnts=exp=1648955687~acl=/streams/27228685_9764041_lsiuydoio0n28lu5jyp_1/master.m3u8*~hmac=61a9a9f7d0f6fddbfbbbd4f17df107a1ccd043d31fc33b438c09e889ffe70a55
+
+#EXTINF:- tvg-id="" tvg-name="EC/oromar tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png"  group-title="?ECUADOR?",EC/oromar tv
+https://live-ak.vimeocdn.com/exp=1648959329~acl=%2F3e443777-ddc4-427e-98e9-a7eebcf09ca3%2F%2A~hmac=840ea288263dd49c11372056c2926ea0f9b42255018b598ed32663c34f0dee95/3e443777-ddc4-427e-98e9-a7eebcf09ca3/chunklist_b728000.m3u8?max_segments=10
+
+#EXTINF:- tvg-id="" tvg-name="EC/telerama tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png"  group-title="?ECUADOR?",EC/telerama tv
+https://envivo.telerama.ec/stream.m3u8
+
+#EXTINF:- tvg-id="" tvg-name="EC/educa(1080hd)" tvg-logo="https://www.comunicacion.gob.ec/wp-content/uploads/2014/12/educatv.jpg" group-title="?ECUADOR?",EC/educa(1080hd)
+https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
+
+#EXTINF:- tvg-id="" tvg-name="EC/puruwalive" tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" group-title="?ECUADOR?",EC/puruwalive
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
+
+#EXTINF:- tvg-id="" tvg-name="EC/hechos ecuador" tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="?ECUADOR?",EC/hechos ecuador
+http://37.187.7.106/hechostv/live.m3u8
+
+#EXTINF:- tvg-id="" tvg-name="EC/Ecuavisa Tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" group-title="?ECUADOR?",EC/Ecuavisa Tv
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/Co8FEvkvNd0ehl_8QaGoggTkAdAs6M8MetcLNCqm1Y7jt7dEJGtATq6AhEpeICwZR-F_g8arMUmIhTwk4lpdBd91HRtTo6ujlS0ghRAKeCxVX4fWn3JPMCfCs2AqNx5fFPJZlHBxspkQuf9B2J72MWkCcm8yOKPCR3y24wgAqUZE1KsyLRsR61rRy7xNHRD0LD9EgYJyi3nKmFY5af3vLgK_71rntWxiWN_NR0-XrphUF20fHePrv3fej7fGm0GGqY4nwA1U5MqA4rVeLkW1ebto9gaZGpCNni8pfgoZmafGDLaMIJ3FodOdRCytKSmCyb_7ieo9TfWkVvwqmlKAUvDq5SvQPHPlmitMoY-x3zCn0h4tkmthLFWXcCLI08QguoM2t_nHMl_qWtuxNVA_YGN8alK-jBNhKlFTl4CrFXFWd5Xy7PhWccEwS9jx5jWjNFL1FSlvnjBwycM2MlwZA95BYVJ1Y1vuXcm_zqDotxx112N_5Mpx58dLnUmmQLUH_G4R4LXeDVN6WUNKyhaiGD1GCLaPD_fv7oP7e21s_OTnlvwETdoNmGZkzBr4MzOvHKAgdRebvzkBMFKY80llLqXU5ORfFo3TGxzht47SRcDuNVZLp1mEYfOCiQQxlP_b29wfPQFyKtJ5_LL2n8oHYjyRnzs12SqIdPc81DTRsVBKee-MkGJU1qF9I7Csk67vNhZZ4gHsxwiUA9MghAz3yT-Q93mJGSeiRp2nrzdUb-6MsfLST8-_VBIc_ypQFD3poWcRbif3bdh8sTLo8bBOotoWVLZzCWp_F6dwEElgm8a9QhTnJl_I9_XpQpigVrqSGV5I29bBge9vWHTOb0ypK1Yb44oweDYsojI661NTsVYPwhoMJ-hxIpPjlGJhGp9cIAEqCXVzLWVhc3QtMTDnAQ.m3u8
+
+#EXTINF:- tvg-id="" tvg-name="MUSIC/VALLENATO TV" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F9e8df03bef78d9dcab80c336b51d7a431ef25b05d24ee6d10397890e77df6220.png" group-title="?MUSICA?",MUSIC/ALLENATO TV
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+
+
+#EXTINF:- tvg-id="" tvg-name="ANIME/NARUTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxpkjAJB4irNxbU4kbRd5RW8mtITEdzUXVg&usqp=CAU" group-title="?SERIE?",ANIME/NARUTO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+
+#EXTINF:- tvg-id="" tvg-name="KID/NICKELODEON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png" group-title="?INFANTLES TV?",KID/NICKELODEON TV
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CvkEkv5ZUfPGJmyUkAeCKMwz3rw-CfyVkFWXUdxM38u7oucalRHeAlD-n-IThTq6uFKl-llpFDW9nzfoZSnS19LVd70Ge8URIQ6KBRvk9CoO2qjb99RGkSihrsLQNH_TfIxTfemx8KTUsLMtj2Qtxgivxjo1sKJPMz9Sk05ZpXWSj0UXk6IHfckbdOxSARF8lREsp9BHvHxB7Y1jWb80NGmYnGIJPIBiR8kwhJ3OsNLQeGIlFU5nwXiVWH1-EhzkjvN9eFHwKqWgn9g1H5hhGkiked9fszQPWCnmeAflgrKqi2Yk6HP1EIvmEq7_5DeAkmP3DseZzxgVm8HCrZwPrLR8nKFMNcAWQuaCTCS-wXrPZRliieczQ3sRH0fsBcNCvwVOsAIt0J26U1t4QqG8TiVSF7YJQUy8LQ2WnQJH5Wxzh_GK5wXXOmWoxYl83z6kel20HxAbgupQJ4fIW5xvUVgsVSA9EQ-RMgsSbK0swZx8q8AKnLy5cx62AKY_damIn40AdkSVtDkXnHClpJCSTfrVR8-Wam2cIOvtTwCJUsD4BlZgGvrYYolOP0zJie4bzjNT9Vh5CP3vX9EPJl-jRdWaKsHJtxr7IO7bqprcLrP2vslFtjIg3lAddwXaYJCtHJaznOEdDUsQ7QjykQkdduvvLZrg7DT6OCrIfq4pnp-w87Fhm9Zhl3DE_3pl8xfB0rKNSC6Xkt3L9MPlr6U8dE9KeFSH36Mx4sB5yKMJv75L8PDAd9nAaj7szvlBqND9Lu5Ze7nHleTQ-B0dJPHcG0mvXcdar7enVTHV72RNhkjro5IaJVKDUL_u79m3wY3hZ-Li65mJYPT8xaTeGgwg_-lVM78yhArhOkYgASoJZXUtd2VzdC0yMLID.m3u8
+
+#EXTINF:- tvg-id="" tvg-name="KID/Disney Channel" tvg-logo="https://www.telezumiko.com/img/disney.png" group-title="?INFANTLES TV?",KID/Disney Channel
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CvQEKboz3DewZIqXfHJatJFNhgj6ySvZZ9zkEESp78p9bOMCZV3Y8HV5OZNRqssCJ23m0f37S3v4rpGcZxwfld_rbCjiINwT0X3rhHMWXxIIqKAv8EGXWoPe3uPA6p5A8pTXUswpmcAL2jqEFcbosQ6aHKBvkNqYbpHI-R_6cSneuzkL27lZjmXtorPyPPpy0PE7SXZhvbvF1VWebCg4EEyNJEeSNdRgnQF51uFWqG9VeM4TlwbC4TYZ9tfp64STUVZM54dDnP2gWpENEhigcivLsoizOjRnUxIAo2dyfjFg5EO1TAdDkgguo6pD4kzn-APfchE4sgj8QXbTZXoKeFxBKbImR5pH5pfcbOwUWTE4DhNFxuT6jCgcwHotXyRhgucCGmGgER8iZ1b_okjyjyk6DAis3K3PlRAmqgOxMO2EMsXnQef3QbkMSJ6_KII2RbTPio0mcMweQsE8tNMCCUdBeeCItOTDPD2FKmtVIaIkVPckbDxWfOj6dCvc-WpYKNp2ir0W4hoJ2IHXuOBwolVvtg1PNjRYe1RIX_3BRy7x0mV3dp98h_HeHYK6U3sjU9cwYZ-LrWm4mQ7eBwy1e9ib5T44UuffvBrIqp2_QwrEkIJzA2IBD3ff-9BFnwyORPFoaBIDzMXaeYoAlvwKmSUwTOibdNCZktDCeSzR7Ax7pthttT8uCeWS3oHWFSDtibAe8bCoCU_pZHK8TsLtgZa6T3Fd3rmtMShe5tCaz8yPjGM7_K7NP7XziAgC3Ze1jzhMcmM2C5ycMCVxkO7ls7L_oq2jMUfouxovdlgkIf9hylBhYsM1OK5ryi3m_C3ixGqyO1-hnRoMY6nEKqcgqMLd06-tIAEqCWV1LXdlc3QtMjCyAw.m3u8
+
+
+#EXTINF:- tvg-id="" tvg-name="KID/Cartoon Network"  tvg-logo="https://www.telezumiko.com/img/cartoon.png" group-title="?INFANTLES TV?",KID/Cartoon Network
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CoAFxGS6aqd4A5rnMNQAj1EMK0gmxAiLduhJBkWQ8VLqB5Plw6rkcMrPIVek0PEdAc2UkKE94D66Q6WYphnBchZfWejgwmmiwlLuSdKMUJ5h-WweGbt7mR2qrGIafi_E_IRCd3zR_Y7bSx2sW5n_X9IapQWOR-WRt5qVCoQca9dQe0PlupBxsaoJJXU9nAhcWaE0n7ynDjWtpdifCesmF-YGiYUU19H-wcJJrEijOrQekgYsV93gykoYIVcrny7Tu2KgmmACU4nGapTvIEI4LsjMw8WOWk1CF0iLYkRX1SSklgP2pSnOigb-HQxNlI98ooBweK2Q4rp92bywbOYofMgJP3q9o5MUBgnDSNWf_9K1eD-MIG2LzynarYgmxK4oGazUFDthiNrBJBMnhTYPnIM5JBetX3DilnPC24ioxbw7y_K7t0mh9kF0slt6qoHVS0j1r0TzUSZ0UbFQ58Dwgca1bjyX-AAVDVcn8LU2fIe0jCOtuaxlaK3VkIx2mOujcgpVkgrJTNnczscIjtkP-qBhFuPWQI7tuoj0vVT8rXc8i7lXuswIOo0gwapRX41FoxYs0CfUohijSlbOFOLSgCQ-L94BRW_qzN4VV9Rrp_dlIC7oeUyzPxUJy8rHw3ygjqrx8Yd3rXKUO1aU7R7JKpvadNUW-LF9h5uwkZB1HG-doSeMbvsM1gW3B1HRKSQUi7r3vaC4Xb_fmtlbvcBoPcQHEB6vMUz0VOtReghTYPmPBimWpvRJH77ke0TMyS_v4_0sOhZ34VEGCEuJA_f5bBG0XM8mJZM_UovNkf2FxEt56srPHjdI1q3dsjpCKHszVQAmaGjQJcnuNS_pRDdqNPVIfRoMGBdcumup4ya7ug_FIAEqCWV1LXdlc3QtMjCyAw.m3u8
+
+
+#EXTINF:- tvg-id="" tvg-name="KID/Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png" group-title="?INFANTLES TV?",KID/Disney Junior 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/109_.m3u8?token=jFlW8n67dJsPwTPk8dPknQ&expires=1649023227&ip=200.24.152.150
+
+#EXTINF:- tvg-id="" tvg-name="DE/fox premium action"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="?DEPORTE?",DE/fox premium action
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/138_.m3u8?token=b3pPYP-hRejg4FFi8Nfx9g&expires=1649023685&ip=200.24.152.150
+
+#EXTINF:- tvg-id="" tvg-name="DE/Directv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="?DEPORTE?",DE/Directv Sports
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=xAnldIuxSy30CB4lM0ZoHw&expires=1649024188&ip=200.24.152.150
+
+
+#EXTINF:- tvg-id="" tvg-name="DE/TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="?DEPORTE?",DE/TyC Sports
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/11_.m3u8?token=jHFIVY2zhQqi8Kh4Smz4dw&expires=1649024531&ip=200.24.152.150https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/11_.m3u8?token=jHFIVY2zhQqi8Kh4Smz4dw&expires=1649024531&ip=200.24.152.150
+
+#EXTINF:- tvg-id="" tvg-name="DE/GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="?DEPORTE?",DE/GOL TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/7_.m3u8?token=mSBLulRq21mkNVOk2Vxknw&expires=1649024853&ip=200.24.152.150
+
+
